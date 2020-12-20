@@ -1,1 +1,1 @@
-# Geotomography
+# Seismic Tomography
